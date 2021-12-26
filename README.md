@@ -1,4 +1,3 @@
-### Olá! Eu sou o Douglas Andrade
 
 
 ## Olá eu sou Douglas Andrade, Desenvolvedor Web Fullstack em Formação!
